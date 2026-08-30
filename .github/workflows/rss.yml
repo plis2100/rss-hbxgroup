@@ -2,35 +2,82 @@ name: Actualizar RSS de HBX Group
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "37 */2 * * *"
+    - cron: "30 5-16 * * 1-5"
 
 permissions:
   contents: write
 
+concurrency:
+  group: actualizar-rss-hbx-group
+  cancel-in-progress: false
+
 jobs:
   actualizar-rss:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
+      - name: Comprobar horario de España
+        id: horario
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "activo=true" >> "$GITHUB_OUTPUT"
+            echo "Ejecución manual permitida."
+            exit 0
+          fi
+
+          HORA=$(TZ=Europe/Madrid date +%H)
+          MINUTO=$(TZ=Europe/Madrid date +%M)
+          DIA=$(TZ=Europe/Madrid date +%u)
+
+          MINUTOS_ACTUALES=$((10#$HORA * 60 + 10#$MINUTO))
+          INICIO=$((7 * 60 + 30))
+          FIN=$((17 * 60 + 30))
+
+          if ((10#$DIA >= 1 && 10#$DIA <= 5)) &&
+             ((MINUTOS_ACTUALES >= INICIO && MINUTOS_ACTUALES <= FIN)); then
+            echo "activo=true" >> "$GITHUB_OUTPUT"
+            echo "Día laborable y hora española: $HORA:$MINUTO. Se actualizará la RSS."
+          else
+            echo "activo=false" >> "$GITHUB_OUTPUT"
+            echo "Fin de semana o fuera del horario permitido."
+          fi
+
       - name: Descargar repositorio
+        if: steps.horario.outputs.activo == 'true'
         uses: actions/checkout@v4
 
       - name: Configurar Python
+        if: steps.horario.outputs.activo == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: "pip"
 
       - name: Instalar dependencias
-        run: pip install -r requirements.txt
+        if: steps.horario.outputs.activo == 'true'
+        run: python -m pip install -r requirements.txt
 
       - name: Crear RSS
+        if: steps.horario.outputs.activo == 'true'
         run: python rss.py
 
       - name: Guardar RSS actualizada
+        if: steps.horario.outputs.activo == 'true'
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add hbxgroup.xml
-          git diff --cached --quiet || git commit -m "Actualizar RSS de HBX Group"
+
+          if git diff --cached --quiet; then
+            echo "La RSS no tiene cambios."
+            exit 0
+          fi
+
+          git commit -m "Actualizar RSS de HBX Group"
           git push
