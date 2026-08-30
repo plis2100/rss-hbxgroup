@@ -1,0 +1,36 @@
+name: Actualizar RSS de HBX Group
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 */2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Crear RSS
+        run: python rss.py
+
+      - name: Guardar RSS actualizada
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hbxgroup.xml
+          git diff --cached --quiet || git commit -m "Actualizar RSS de HBX Group"
+          git push
