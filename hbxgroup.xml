@@ -6,7 +6,14 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 02 Sep 2026 07:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:41:53 +0000</lastBuildDate>
+    <item>
+      <title>HBX Group partners with Vorsee to bring predictive AI and agentic commercial workflows to hotels</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-partners-vorsee-bring-predictive-ai-and-agentic</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-partners-vorsee-bring-predictive-ai-and-agentic</guid>
+      <description>London, 2 September 2026.- HBX Group (HBX.SM), a leading B2B travel technology marketplace, and Vorsee (by ZYTLYN Technologies AG), the Swiss travel AI company behind the ActionOS platform, today announced a strategic partnership to bring Vorsee's predictive travel intelligence and agentic AI capabilities to HBX Group's hotel partners.</description>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HBX Group brings global accommodation supply to Sabre’s worldwide agency network</title>
       <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-brings-global-accommodation-supply-sabres-worldwide</link>
@@ -120,17 +127,17 @@
       <pubDate>Thu, 05 Mar 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HBX Group and Traveloka expand strategic partnership to deepen APAC supply and accelerate global distribution</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-and-traveloka-expand-strategic-partnership-deepen-apac</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-and-traveloka-expand-strategic-partnership-deepen-apac</guid>
-      <description>London, 26 February 2026. - HBX Group(HBX.SM), a leading B2B travel technology marketplace, hastoday announced an extension of its long‑standing partnership with Traveloka, Southeast Asia’s leading all-in-one travel platform, to further strengthen collaboration and broaden the distribution of high‑quality, locally contracted hotel content across the Asia‑Pacific region.</description>
-      <pubDate>Thu, 26 Feb 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Queer Destinations and HBX Group Launch First-of-its-Kind Conscious Travel Platform</title>
       <link>https://www.hbxgroup.com/news-room/press-release/queer-destinations-and-hbx-group-launch-first-its-kind-conscious</link>
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/queer-destinations-and-hbx-group-launch-first-its-kind-conscious</guid>
       <description>London, 26 February 2026. - Queer Destinations and HBX Group (HBX.SM), a leading B2B travel technology marketplace, today announced the launch of a first-of-its-kind Conscious Online Travel Platform (OTA) — a milestone that transforms how LGBTQ+ travellers and residents discover, trust, and spend with businesses and destinations worldwide.</description>
+      <pubDate>Thu, 26 Feb 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HBX Group and Traveloka expand strategic partnership to deepen APAC supply and accelerate global distribution</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-and-traveloka-expand-strategic-partnership-deepen-apac</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-and-traveloka-expand-strategic-partnership-deepen-apac</guid>
+      <description>London, 26 February 2026. - HBX Group(HBX.SM), a leading B2B travel technology marketplace, hastoday announced an extension of its long‑standing partnership with Traveloka, Southeast Asia’s leading all-in-one travel platform, to further strengthen collaboration and broaden the distribution of high‑quality, locally contracted hotel content across the Asia‑Pacific region.</description>
       <pubDate>Thu, 26 Feb 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/34-travel-leaders-cite-technology-fragmentation-sectors-biggest</guid>
       <description>London, 18 February 2026 — Following the latest edition of MarketHub Asia, HBX Group (HBX.SM), a leading B2B travel technology marketplace, unveils the results of a survey conducted among its more than 450 attendees, including sector opinion leaders, hotels, travel distributors and OTAs.</description>
       <pubDate>Wed, 18 Feb 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roiback Acquires Spanish company ThinkIN to Accelerate AI Enabled Omnichannel Contact Center Capabilities for Hotels Worldwide</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/roiback-acquires-spanish-company-thinkin-accelerate-ai-enabled</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/roiback-acquires-spanish-company-thinkin-accelerate-ai-enabled</guid>
-      <description>This acquisition will strengthen hotel partners’ direct sales conversion and guest engagement with 24/7, 9‑language support, AI voice bots, and data‑driven quality assurance.</description>
-      <pubDate>Tue, 17 Feb 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
