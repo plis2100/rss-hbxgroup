@@ -6,7 +6,7 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 18 Sep 2026 10:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:41:41 +0000</lastBuildDate>
     <item>
       <title>HBX Group partners with Vorsee to bring predictive AI and agentic commercial workflows to hotels</title>
       <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-partners-vorsee-bring-predictive-ai-and-agentic</link>
@@ -55,13 +55,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-and-lastminutecom-strengthen-strategic-partnership</guid>
       <description>London, 19 May 2026.- HBX Group (HBX.SM), a leading B2B travel technology marketplace, today announced a new phase in its partnership with lastminute.com. Together, the two companies will accelerate growth in dynamic holiday packaging, one of the fastest-growing segments of the travel industry.</description>
       <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HBX Group acquires Bridgify, combining AI and experiences capabilities to scale its ecosystem</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-acquires-bridgify-combining-ai-and-experiences</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-acquires-bridgify-combining-ai-and-experiences</guid>
-      <description>London, 13 May 2026.-HBX Group (HBX.SM), a leading B2B travel technology marketplace, has agreed to acquire 100% of Bridgify, an AI-native travel technology company focused on technology for experiences distribution.</description>
-      <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>HBX Group report shows AI adoption grows across travel distribution but scaling remains a challenge</title>
@@ -153,6 +146,12 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/34-travel-leaders-cite-technology-fragmentation-sectors-biggest</guid>
       <description>London, 18 February 2026 — Following the latest edition of MarketHub Asia, HBX Group (HBX.SM), a leading B2B travel technology marketplace, unveils the results of a survey conducted among its more than 450 attendees, including sector opinion leaders, hotels, travel distributors and OTAs.</description>
       <pubDate>Wed, 18 Feb 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HBX Group acquires Bridgify, combining AI and experiences capabilities to scale its ecosystem</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-acquires-bridgify-combining-ai-and-experiences</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-acquires-bridgify-combining-ai-and-experiences</guid>
+      <description>Nota de prensa publicada por HBX Group.</description>
     </item>
   </channel>
 </rss>
