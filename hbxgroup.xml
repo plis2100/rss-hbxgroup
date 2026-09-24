@@ -6,7 +6,14 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 23 Sep 2026 15:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:23:18 +0000</lastBuildDate>
+    <item>
+      <title>HBX Group and Virtuoso expand global partnership to enhance luxury travel offering</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-and-virtuoso-expand-global-partnership-enhance-luxury</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-and-virtuoso-expand-global-partnership-enhance-luxury</guid>
+      <description>Building on more than 25 years of collaboration in North America, the agreement marks a significant global expansion, giving Virtuoso member agencies worldwide access to Bedsonline's accommodation, mobility and experiences portfolio, including its Luxury Collection.</description>
+      <pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HBX Group partners with Vorsee to bring predictive AI and agentic commercial workflows to hotels</title>
       <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-partners-vorsee-bring-predictive-ai-and-agentic</link>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-redefines-partner-connectivity-launch-new-partner-portal</guid>
       <description>London, 24 January 2026 – HBX Group (HBX.SM), a leading B2B travel technology marketplace, has launched its new Partner Portal, designed to transform how hotel partners and clients worldwide interact with its solution.</description>
       <pubDate>Tue, 24 Feb 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>34% of Travel Leaders Cite Technology Fragmentation as the Sector’s Biggest Challenge, According to a survey conducted by HBX Group during the MarketHub Asia 2026</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/34-travel-leaders-cite-technology-fragmentation-sectors-biggest</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/34-travel-leaders-cite-technology-fragmentation-sectors-biggest</guid>
-      <description>London, 18 February 2026 — Following the latest edition of MarketHub Asia, HBX Group (HBX.SM), a leading B2B travel technology marketplace, unveils the results of a survey conducted among its more than 450 attendees, including sector opinion leaders, hotels, travel distributors and OTAs.</description>
-      <pubDate>Wed, 18 Feb 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
