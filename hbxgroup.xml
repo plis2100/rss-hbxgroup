@@ -6,7 +6,14 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 28 Sep 2026 11:54:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:30:13 +0000</lastBuildDate>
+    <item>
+      <title>HBX Group unveils Bedsonline+, evolving how it supports travel advisors worldwide</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-unveils-bedsonline-evolving-how-it-supports-travel</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-unveils-bedsonline-evolving-how-it-supports-travel</guid>
+      <description>This evolution unites expanded travel products, intelligent technology, and enhanced services into one stronger proposition - equipping travel advisors to meet evolving traveller expectations head-on.</description>
+      <pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HBX Group and Virtuoso expand global partnership to enhance luxury travel offering</title>
       <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-and-virtuoso-expand-global-partnership-enhance-luxury</link>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-and-traveloka-expand-strategic-partnership-deepen-apac</guid>
       <description>London, 26 February 2026. - HBX Group(HBX.SM), a leading B2B travel technology marketplace, hastoday announced an extension of its long‑standing partnership with Traveloka, Southeast Asia’s leading all-in-one travel platform, to further strengthen collaboration and broaden the distribution of high‑quality, locally contracted hotel content across the Asia‑Pacific region.</description>
       <pubDate>Thu, 26 Feb 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HBX Group redefines partner connectivity with launch of new Partner Portal</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-redefines-partner-connectivity-launch-new-partner-portal</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-redefines-partner-connectivity-launch-new-partner-portal</guid>
-      <description>London, 24 January 2026 – HBX Group (HBX.SM), a leading B2B travel technology marketplace, has launched its new Partner Portal, designed to transform how hotel partners and clients worldwide interact with its solution.</description>
-      <pubDate>Tue, 24 Feb 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
