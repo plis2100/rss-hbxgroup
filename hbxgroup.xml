@@ -6,7 +6,14 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 10:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:28:54 +0000</lastBuildDate>
+    <item>
+      <title>HBX Group and Trip.com Group announce strategic partnership upgrade to enhance global travel experiences</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-and-tripcom-group-announce-strategic-partnership-upgrade</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-and-tripcom-group-announce-strategic-partnership-upgrade</guid>
+      <description>London, 22 October 2026 -HBX Group (HBX.SM), a leading B2B travel technology marketplace,and Trip.com Group today announced a new strategic partnership. The two companies will collaborate in China inbound travel and fintech, with the shared aim of delivering better travel experiences for customers around the world.</description>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HBX Group launches Growth Accelerator to give hotels greater control over their growth strategies</title>
       <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-launches-growth-accelerator-give-hotels-greater-control</link>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-unveils-new-bedsonline-powered-ai-designed-help-agents</guid>
       <description>London, 12 March 2026 — HBX Group (HBX.SM), a leading B2B travel technology marketplace, today announced a major evolution of its retail solution with the launch of its optimised Bedsonline Booking engine, now transformed into an AI powered travel technology solution built specifically to help travel advisors work faster, sell with greater confidence, and offer a smoother experience to their clients.</description>
       <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HBX Group selects Outpayce as strategic partner to power global Fintech transformation</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-selects-outpayce-strategic-partner-power-global-fintech</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-selects-outpayce-strategic-partner-power-global-fintech</guid>
-      <description>London, 5 March 2026.- HBX Group (HBX.SM), a leading B2B travel technology marketplace, today announced a strategic partnership with Outpayce from Amadeus, to accelerate the development of its Fintech capabilities and transform how travel buyers and sellers manage digital payments.</description>
-      <pubDate>Thu, 05 Mar 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
