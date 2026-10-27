@@ -6,7 +6,14 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Oct 2026 11:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:48:47 +0000</lastBuildDate>
+    <item>
+      <title>Bedsonline+ launches new travel packages for advisors</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/bedsonline-launches-new-travel-packages-advisors</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/bedsonline-launches-new-travel-packages-advisors</guid>
+      <description>The new offering combines Bedsonline+’s booking capabilities with PerfectStay’s packaged travel expertise, enabling advisors to book flights, accommodation and experiences in one place.</description>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HBX Group and Trip.com Group announce strategic partnership upgrade to enhance global travel experiences</title>
       <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-and-tripcom-group-announce-strategic-partnership-upgrade</link>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-expands-marketing-suite-sponsored-listings-power-hotel</guid>
       <description>London, 19 March 2026–HBX Group (HBX.SM), a leading independent B2B travel technology marketplace, has announced the launch of Sponsored Listings, designed to help hotels capture demand and drive measurable performance at the moment bookings happen.</description>
       <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HBX Group Unveils New Bedsonline Powered by AI Designed to Help Agents Sell Travel Smarter</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-unveils-new-bedsonline-powered-ai-designed-help-agents</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-unveils-new-bedsonline-powered-ai-designed-help-agents</guid>
-      <description>London, 12 March 2026 — HBX Group (HBX.SM), a leading B2B travel technology marketplace, today announced a major evolution of its retail solution with the launch of its optimised Bedsonline Booking engine, now transformed into an AI powered travel technology solution built specifically to help travel advisors work faster, sell with greater confidence, and offer a smoother experience to their clients.</description>
-      <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
