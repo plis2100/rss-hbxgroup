@@ -6,7 +6,7 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 13:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:09:05 +0000</lastBuildDate>
     <item>
       <title>Bedsonline+ launches new travel packages for advisors</title>
       <link>https://www.hbxgroup.com/news-room/press-release/bedsonline-launches-new-travel-packages-advisors</link>
@@ -146,13 +146,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-acquires-full-ownership-perfectstay</guid>
       <description>London, 1 April 2026.- HBX Group (HBX.SM) today announced that it has acquired full ownership of PerfectStay, the Paris‑based travel technology company specialised in dynamic holiday packaging solutions for airlines and major consumer brands. HBX Group acquired a 25% stake in PerfectStay in June 2024, and this transaction brings the business fully into the Group.</description>
       <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HBX Group expands Marketing Suite with Sponsored Listings to power hotel growth</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-expands-marketing-suite-sponsored-listings-power-hotel</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-expands-marketing-suite-sponsored-listings-power-hotel</guid>
-      <description>London, 19 March 2026–HBX Group (HBX.SM), a leading independent B2B travel technology marketplace, has announced the launch of Sponsored Listings, designed to help hotels capture demand and drive measurable performance at the moment bookings happen.</description>
-      <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
