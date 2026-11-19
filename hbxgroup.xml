@@ -6,7 +6,14 @@
     <description>Últimas notas de prensa publicadas por HBX Group</description>
     <language>en</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-hbxgroup/main/hbxgroup.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 14:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:38:08 +0000</lastBuildDate>
+    <item>
+      <title>HBX Group and Cleartrip Announce Strategic Partnership to Expand International Hotel Offering for Indian Travellers</title>
+      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-and-cleartrip-announce-strategic-partnership-expand</link>
+      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-and-cleartrip-announce-strategic-partnership-expand</guid>
+      <description>London, 19 November 2026.-HBX Group (HBX.SM), a leading B2B travel technology marketplace, has today announced a new partnership with Cleartrip, a Flipkart company and one of India's fastest-growing online travel platforms, to strengthen Cleartrip's international hotel offering through the integration of HBX Group's global accommodation content.</description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bedsonline+ launches new travel packages for advisors</title>
       <link>https://www.hbxgroup.com/news-room/press-release/bedsonline-launches-new-travel-packages-advisors</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-brings-together-industry-leaders-markethub-europe-2026</guid>
       <description>London, 7 April 2026.- HBX Group (HBX.SM), a leading B2B travel technology marketplace,has confirmed the sponsors and the first speakers for MarketHub Europe 2026. The event will take place in Malta on 22–23 April at the InterContinental Malta, connecting key players from across the travel ecosystem.</description>
       <pubDate>Tue, 07 Apr 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HBX Group acquires full ownership of PerfectStay</title>
-      <link>https://www.hbxgroup.com/news-room/press-release/hbx-group-acquires-full-ownership-perfectstay</link>
-      <guid isPermaLink="true">https://www.hbxgroup.com/news-room/press-release/hbx-group-acquires-full-ownership-perfectstay</guid>
-      <description>London, 1 April 2026.- HBX Group (HBX.SM) today announced that it has acquired full ownership of PerfectStay, the Paris‑based travel technology company specialised in dynamic holiday packaging solutions for airlines and major consumer brands. HBX Group acquired a 25% stake in PerfectStay in June 2024, and this transaction brings the business fully into the Group.</description>
-      <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
